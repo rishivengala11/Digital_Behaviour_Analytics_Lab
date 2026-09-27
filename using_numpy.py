@@ -69,4 +69,3 @@ print(s_count)
 i_abv_average=instagram[instagram>insta_average]
 s_abv_average=study[study>study_average] 
 
- 
